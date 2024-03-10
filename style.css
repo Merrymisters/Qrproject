@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: D5E1EF;
 }
 
 h1 {
@@ -11,4 +11,9 @@ p {
   
   font-family: verdana;
   font-size: 20px;
+}
+div {
+	width:800px; 
+	margin:0 auto;
+	
 }
