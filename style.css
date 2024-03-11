@@ -9,8 +9,8 @@ body {
   border-radius: 25px;
   background: white;
   padding: 20px; 
-  width: 400px;
-  height: 600px;  
+  width: 200px;
+  height: 300px;  
   font-family: futura bold;
   text-align: center;
    margin-top: 10%;
@@ -29,6 +29,6 @@ h2{
 
 h4 {
 	 font-size: 15px;
-	 color: var(--grayish-blue);
+	 color: gray;
     text-align: center;
 }
