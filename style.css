@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
 body {
   background-color: #d5e1ef;
 }
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
 
 .rcorners {
   border-radius: 25px;
@@ -18,7 +20,7 @@ body {
 	font-family: Outfit;
     font-size: 15px;
 }
-h4{
+h2{
 	font-weight: 700;
 	font-size: 22px;
 	margin-bottom: 16px;
