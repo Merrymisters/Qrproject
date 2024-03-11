@@ -24,4 +24,11 @@ h2{
 	font-weight: 700;
 	font-size: 22px;
 	margin-bottom: 16px;
+	font-size: 22px;
+}
+
+h4 {
+	 font-size: 15px;
+	 color: var(--grayish-blue);
+    text-align: center;
 }
